@@ -1,7 +1,19 @@
-/*placeholder for style.css 
+/*placeholder for style.css */
+
+header{
+
+display: flex; 
+align-items: center;
+justify-content: space-around;
+background-color: greenyellow; /* placeholder colors until more foundations are in place */
 
 
+}
 
+.welcome-link{
 
+text-decoration: none;
+color:black; 
 
-*/
+}
+
