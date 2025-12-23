@@ -1,19 +1,31 @@
 /*placeholder for style.css */
 
+body{
+
+background-color: blanchedalmond;
+margin: 0; 
+
+}
+
 header{
 
 display: flex; 
 align-items: center;
 justify-content: space-around;
-background-color: greenyellow; /* placeholder colors until more foundations are in place */
-
+background-color: #FFAA45; /* placeholder colors until more foundations are in place */
+/*font-family: monospace ; */
 
 }
 
-.welcome-link{
+.link{
 
 text-decoration: none;
 color:black; 
 
 }
 
+#firstContent{
+
+    padding-left: 30px;
+
+}
