@@ -24,8 +24,50 @@ color:black;
 
 }
 
+.link:hover{
+
+    color:rgb(85, 83, 83); 
+}
+
 #firstContent{
 
     padding-left: 30px;
+
+}
+
+#loginBtn{
+
+    background-color: #FFAA45;
+    color: black; 
+    border: none; 
+    padding: 10px 20px; 
+    cursor: pointer; 
+    border-radius: 12px;
+    font-size: 11pt;
+    font-family: serif;
+
+}
+
+#loginBtn:hover{
+
+    background-color: #f59724;
+
+}
+
+#loginPopup{
+
+    background-color: #f59724;
+
+}
+
+.popupContent{
+
+    font-size: large;
+
+}
+
+.closeBtn{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
